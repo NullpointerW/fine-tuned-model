@@ -13,11 +13,11 @@ setup(
 
     author="vow1231a",
     author_email="voidmanwzp@gmail.com",
-    description="bard http server",
+    description="fine tuned model",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     license="MIT",
-    url="https://github.com/NullpointerW/bard-http-srv",
+    url="https://github.com/NullpointerW/fine-tuned-model",
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",

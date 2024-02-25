@@ -1,0 +1,7 @@
+LICENSE
+setup.py
+fine_tuned_model.egg-info/PKG-INFO
+fine_tuned_model.egg-info/SOURCES.txt
+fine_tuned_model.egg-info/dependency_links.txt
+fine_tuned_model.egg-info/requires.txt
+fine_tuned_model.egg-info/top_level.txt
