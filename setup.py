@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="fine-tuned-model",
-    version="0.1.0",
+    version="0.1.1",
     packages=find_packages(),
     install_requires=[
         # 在这里列出你的库所需的其他Python包
@@ -19,7 +19,7 @@ setup(
     license="MIT",
     url="https://github.com/NullpointerW/fine-tuned-model",
     classifiers=[
-        "Development Status :: 3 - Alpha",
+        "Development Status :: 4 - Beta",
         "Intended Audience :: Developers",
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python",
@@ -29,4 +29,7 @@ setup(
         "Programming Language :: Python :: 3.8",
         "Programming Language :: Python :: 3.9",
     ],
+     project_urls={
+        'Source': "https://github.com/NullpointerW/fine-tuned-model",
+    },
 )
