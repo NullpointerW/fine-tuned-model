@@ -2,13 +2,14 @@ from setuptools import setup, find_packages
 
 setup(
     name="fine-tuned-model",
-    version="0.1.1",
+    version="0.1.4",
     packages=find_packages(),
     install_requires=[
         # 在这里列出你的库所需的其他Python包
         'bardapi==0.1.23a0',
         'Flask==2.3.2',
         'httpx==0.24.1',
+        'bard-http-srv==0.14',
     ],
 
     author="vow1231a",
